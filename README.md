@@ -1,4 +1,4 @@
-# Version-Control
+# Version-Control-Lab
 Version control lab for CMPINF0010
 
 Group Members:
