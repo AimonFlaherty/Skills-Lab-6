@@ -4,6 +4,7 @@ Version control lab for CMPINF0010
 Group Members:
 1. Aimon Flaherty
 2. Kamryn Kopchinski
+3. Ojas Mishra
 
 Description:
-
+Calculates shannon entropy of a name and then prints it.
