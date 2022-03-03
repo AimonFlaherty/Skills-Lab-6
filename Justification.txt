@@ -2,3 +2,7 @@ Code of Conduct:
 We used the Contributor Covenant as our code of conduct because we believe it provides a detailed and fair standard.
 The Contributor Covenant is very detailed when describing how the code will be enforced and what is expected of the community members.
 We also believe that the enforcement guidelines are fair. It doesn't call for immediate bans and leaves room if there was just a misunderstanding.
+
+License:
+We decided to use the MIT License because we wanted our software to be open source. The MIT License allows users to use and modify the software. 
+This will allow users to use and improve the software without any restrictions.
